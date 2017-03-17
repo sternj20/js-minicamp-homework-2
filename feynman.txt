@@ -1,0 +1,13 @@
+for loop - a loop with three conditions, an initial variable, a condition that must be met in order for the loop to stop, and something that happens to the variable after each iteration. then you can provide a function or set of instructions to loop until the condition that makes it stop is met.
+
+&& - when comparing values, you can use it to see if two values are true or false 
+
+|| = can use it to see if one or the other value is true
+
+!== - can use it to see if something isn't true
+
+Array - a container, can hold strings or numbers and can be accessed by index
+
+git - a version control system that can be used on the command line
+
+github - a place to upload all of your files through the version control 
